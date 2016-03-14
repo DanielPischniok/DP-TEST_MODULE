@@ -16,3 +16,10 @@ http://www.amazon.de/gp/product/B002IVTPRS?ie=UTF8&camp=1638&creativeASIN=B002IV
 
 https://daveismyname.com/free-bootstrap-admin-themes-bp
 
+http://www.butterfaces.org/butterfaces-showcase/index.jsf
+
+Insbesondere für unsere Kursstrukturen: http://www.butterfaces.org/butterfaces-showcase/tree.jsf
+
+und als Faceted Search Komponente: http://www.butterfaces.org/butterfaces-showcase/treebox.jsf
+
+…
